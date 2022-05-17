@@ -1,0 +1,111 @@
+h1 {
+    text-align: center;
+    font-family: "fantasy";
+    color: forestgreen;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 35px;
+    color: red;
+
+}
+
+body {
+    /*background-color: rgb(0, 255, 0, 0.2899);*/
+    background-color: antiquewhite;
+
+}
+
+#para1 {
+    font-size: 25px;
+}
+
+#para2 {
+    font-size: 38px;
+    color: blue;
+}
+
+/*
+#para3{
+    
+}
+*/
+.ParaClass1 {
+    font-size: 25px;
+    font-family: "Open Sans"
+}
+
+#para4 {
+    color: darkorange;
+    font-size: 38px;
+    font-family: "pacifico";
+}
+
+#para5 {
+    font-size: 38px;
+    color: dodgerblue;
+    font-family: "monospace";
+    text-align: center;
+}
+
+ul.b {
+    list-style-position: outside;
+    text-align: center;
+}
+
+.para6 {
+    color: deeppink;
+    font-size: 25px;
+    font-family: "Cambria";
+}
+
+#para2 {
+    font-size: 38px;
+    color: green;
+}
+
+#para7 {
+    font-size: 37px;
+    color: darkgoldenrod;
+}
+
+#para8 {
+    color: black;
+    font-size: 25px;
+    font-family: "Open Sans";
+    text-align: center;
+}
+
+#para9 {
+    font-size: 37px;
+    color: darkorchid;
+}
+
+h3 {
+    text-align: center;
+}
+
+.firstPictureofHeroin {
+    display: block;
+    margin-left: auto;
+    text-align: center;
+    margin-right: auto
+}
+
+.lastPictureofHeroin {
+    text-align: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+h4 {
+    font-family: "Trebuchet";
+    color: crimson;
+    font-size: 50px;
+}
+a{
+font-size:35px;
+
+}
